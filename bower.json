@@ -1,0 +1,33 @@
+{
+"name": "switching-toolbar",
+"main": [
+"dist/switching-toolbar.js"
+],
+"version": "0.1.0",
+"homepage": "",
+"authors": [
+"snrlx <snrlx@snrlx.de>"
+],
+"description": "",
+"keywords": [
+"angular",
+"toolbar",
+"switch"
+],
+"license": "MIT",
+"ignore": [
+"**/.*",
+"node_modules",
+"bower_components",
+"test",
+"tests",
+"temp",
+"Gruntfile.js",
+"package.json",
+"demo"
+],
+"dependencies": {
+"angular": "~1.3",
+"bootstrap": "~3.0"
+}
+}
